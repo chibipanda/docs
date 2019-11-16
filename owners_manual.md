@@ -6,13 +6,13 @@ Congratulations on your acquaintance with the ChibiPanda unit. You shall have a 
 
 This manual is intended to familiarise you with the ChibiPanda unit. The ChibiPanda unit is very particular, with certain likes and dislikes, and peculiar habits. We have tried to make all the information in this User Manual easy to find. Should you like to find a quick overview of the ChibiPanda unit, please refer to the At A Glance section.  
 
-Should you have any question not answered by this user manual, please refer to the ChibiPanda unit. Information on specific point of view can also be found on the Internet. 
+Should you have any question not answered by this user manual, please refer to the ChibiPanda unit, as the unit has been equipped with natural language processing and speech. Information on specific point of view can also be found on the Internet. 
 
 ## At A Glance
 
 The ChibiPanda unit occurs naturally in urban settings. Occurrence in rural settings is not impossible, but it will feel out of place and bored unless the boredom is mitigated by books, movies, and/or interesting people. While the ChibiPanda unit is easily amused, it is also easily bored. 
 
-The ChibiPanda unit by nature is quite solitary, therefore, it is sometimes interacting with great awkwardness. The ChibiPanda unit’s experience is quite limited, and therefore, will mostly be able to speak with credibility only in those areas it is experienced in. The ChibiPanda unit does not read intent very well, and does not understand body language very well. 
+The ChibiPanda unit by nature is quite solitary, therefore, it sometimes interacts with other people with great awkwardness. The ChibiPanda unit’s experience is quite limited, and therefore, will mostly be able to speak with credibility only in those areas it is experienced in. The ChibiPanda unit does not read intent very well, and does not understand body language very well. 
 
 The ChibiPanda unit in general does not make too much assumptions. It also has weird thoughts from time to time, things that are very trivial to normal people. The ChibiPanda unit is not good at all with feelings, and this includes its own feeling. In case of psychological irritation detection followed with “I don’t know” after being asked, it is best to leave it alone until the ChibiPanda unit figures out what is happening, and it will report back with possible cause, and propose a fix for the issue, likely, with a measurable success criteria.
 
@@ -23,6 +23,7 @@ The ChibiPanda unit is a chocolate fiend with no tolerance to alcohol. Aside fro
 The ChibiPanda unit has keen sense of smell, therefore, strong perfumes are emphatically discouraged, and it is appreciated if body odour is kept to minimum. It is also particularly easy to startle, and loud noises scare it. It hates darkness and insects. 
 
 ## Parts and Assembly
+
 The ChibiPanda unit shall come fully assembled, and the general parts are in accordance to the general human anatomy. Divided into Regional Group of Human Body, it will come with a head and a neck, upper limbs, thorax, abdomen, back, pelvic and perineum area, and lower limbs. Inside, there will be the usually expected major organ systems: circulatory, digestive, endocannabinoid, endocrine, integumentary, immune, lymphatic, musculoskeletal, nervous, reproductive, respiratory, urinary, and vestibular systems.
 
 Please refer to a copy of general human anatomy book for more detailed information about different parts and parts interactions. 
@@ -52,19 +53,19 @@ This section will cover normal daily ritual and occurrences. This section will n
 
 ### Waking Up
 
-The ChibiPanda unit has short PER3 genes, and therefore is not very happy in the mornings. It prefers to wake up later and go to bed later. However, due to societal requirements, it normally wakes up at 0830 in the morning on weekdays with the aid of the alarm on the iPhone’s Clock application. The ChibiPanda unit will then roll out from under the comforter and run a quick Power On Self Test. 
+The ChibiPanda unit has short PER3 genes, and therefore is not very happy in the mornings. It prefers to wake up later and go to bed later. However, due to societal requirements, it normally wakes up at 0830 in the morning on weekdays with the aid of the alarm on the iPhone’s Clock application. The ChibiPanda unit will then roll out from under the comforter and run a quick Power On Self Test, followed by going to the bathroom for the relevant eliminations and the application of mouthwash.  
 
 ### Hygiene and Grooming
 
-Your ChibiPanda unit showers at night, since it has no time in the morning for this “jibbi jabba”. The ChibiPanda unit has strict hygiene regime. It washes its hair everyday, and will require separate shampoo and conditioner. Since it has dry hair, moisturising and reconstructing shampoo and conditioner with pH between 3.5 and 6 are preferred. Afterwards, the hair is normally brushed, and then air-dried. On occasions, the hair will be dried using the hair dryer, although this method is quite troublesome for the unit since it has to take the hair dryer out of the cabinet and plug it to the electrical outlet. The ChibiPanda unit insists on keeping its face free of any interference. It has fringes, but they are kept firmly out of the way using a beret clip. The hair in the back are kept in place by means of ponytail holder. 
+Your ChibiPanda unit showers at night, since it has no time in the morning for this “jibbi jabba” in the morning. The ChibiPanda unit has strict hygiene regiment. It washes its hair everyday, and will require separate shampoo and conditioner. Since it has dry hair, moisturising and reconstructing shampoo and conditioner with pH between 3.5 and 6 are preferred. Afterwards, the hair is normally brushed, and then air-dried. On occasions, the hair will be dried using the hair dryer, although this method is quite troublesome for the unit since it has to take the hair dryer out of the cabinet and plug it to the electrical outlet. The ChibiPanda unit insists on keeping its face free of any interference. It has fringes, but they are kept firmly out of the way using a snap clip. The hair in the back are kept in place by means of ponytail holder. 
 
-The ChibiPanda unit showers on daily basis, and it requires a non-scented soap for this purpose. It prefers an anti-bacterial bar soap, but will accept liquid when required. It also uses the Sonicare Pro body brush to rid itself of dead skin cells. It uses the same bar of soap to wash its face, also utilising the Sonicare Pro brush to rid itself of dead skin cells on the face, albeit with a different brush head. When the weather is particularly dry, non-scented hypoallergenic lotion is then applied to the skin and face. For the underarm areas, non-scented hypoallergenic anti-perspirant is applied. 
+The ChibiPanda unit showers on daily basis, and it requires liquid soap for this purpose, currently using Trader Joe's Tea Tree Tingle Body Wash. It also uses the Sonicare Pro body brush to rid itself of dead skin cells, especially in the underarm area. It uses powder face wash to wash its face. When the weather is particularly dry, non-scented hypoallergenic lotion is then applied to the skin and face. For the underarm areas, sometimes non-scented hypoallergenic anti-perspirant is applied. After shower, the ChibiPanda unit will clean its ears using one cotton bud stick per ear. 
 
-After shower, the ChibiPanda unit will clean its ears using one cotton bud stick per ear. It will also clean its cartilage piercing at this point, followed by weighing of oneself. Teeth brushing and flossing are another daily routine. Flossing before brushing is the approach adopted. For flossing, it requires both waxed minted flossing strings and a waterpik unit. For optimal clean feeling, a length of flossing string will be used. However, there are occasions where time is of the essence, at which point, a waterpik will be used. For teeth brushing, it requires a sonic toothbrush with small head and sensitive-teeth-plus-whitening tooth paste. It prefers Crest, but will work with a different brand when needed. While brushing, the unit will also clean its tongue. After brushing, it will then use the mouthwash to rid itself of germs that are not eliminated by the flossing and brushing. 
+Teeth brushing and flossing are another daily routine. Flossing before brushing is the approach adopted. For flossing, it requires both waxed minted flossing strings and a waterpik unit. For optimal clean feeling, a length of flossing string will be used. However, there are occasions where time is of the essence, at which point, a waterpik will be used. For teeth brushing, it requires a sonic toothbrush with small head and hydroxyapatite tooth paste. While brushing, the unit will also clean its tongue. After brushing, it will then use the mouthwash to rid itself of germs that are not eliminated by the flossing and brushing. 
 
 The ChibiPanda unit prefers very short nails, both on the fingers and toes, since it has a rather obsessive compulsion to clean under the nails. The only exception to this preference is the pinky nails, since those are the nails used to pick debris and general manoeuvreing between small spaces. It is also obsessive about its facial pores, especially in the nose and chin area. It will sometimes be found to squeeze the pores to rid itself of blackheads. The shortness of the finger nails are especially helpful in this case. 
 
-The ChibiPanda unit does not usually use makeup. This is caused by lack of time in the morning to apply makeup. Coupled with the fear of pore clogging and poking of its own eye from applying eyeliner, it decided that it will go au naturel every day. 
+The ChibiPanda unit does not use makeup. This is caused by lack of time in the morning to apply makeup. Coupled with the fear of pore clogging and poking of its own eye from applying eyeliner, it decided that it will go au naturel every day. 
 
 ### Driving and Transportation
 
@@ -72,15 +73,18 @@ The ChibiPanda unit owns a personal vehicle, however, due to its lazy nature, it
 
 The unit does not have any aversion toward public transportation, but dislike the waiting time in the bus and metro station. This, along with the fact that it owns a personal vehicle, causes it to prefer to drive itself where it needs to go. 
 
-The unit prefers a 2-seat coupe when available. It is partial to lightweight car, and will probably go for the most power per weight value. It prefers rear wheel drive vehicle, and thus far has only driven front-engine vehicles. It is looking forward to the time when it will be driving a mid-engine vehicle and a rear-engine one. It currently owns a hatchback with pretty good manoeuvrability.. 
+The unit prefers a 2-seat coupe when available. It is partial to lightweight car, and will probably go for the most power per weight value. It prefers rear wheel drive vehicle, and thus far has only driven front-engine vehicles. It is looking forward to the time when it will be driving a mid-engine vehicle and a rear-engine one. It currently owns a hatchback with pretty good manoeuvrability.
 
 The ChibiPanda unit dislikes driving larger vehicle (e.g. SUV, minivans). This is caused by its difficulty with spatial perception. It is very bad at parking, and parking a larger car is a much more difficult task than a small vehicle. 
 
 The unit does not have good balance and just quite recently learnt how to ride a bicycle, an accomplishment that it was quite proud of.  
 
+
 ### Nourishment
 
 The ChibiPanda unit is almost constantly on diet. As far as nourishment is concerned, it has its own calculation on what it needs and how much it has had so far. It prefers almost-no-fat diet, low-carb, high-fibre, and high-protein diet. In general, in a day, approximately 65 grams of protein and 35 grams of fibre are consumed. The ChibiPanda unit tried its best to not ingest more than 1300 kilo calories a day. 
+
+The ChibiPanda unit usually goes to the Trader Joe's underneath its office to buy some chicken bone broth for lunch. This allows it to do 2 tasks in one: hydrate itself and ingest protein.
 
 While preferring certain kind of nourishment, it also requires minimal effort on its part to prepare it. Therefore, it invents a lot of low-involvement dishes. Its particular favourite is microwave-made-egg-white omelette, consisting of a cup of egg white in a bowl being microwaved for 3 minutes. It will, afterwards, put a topping on top. Blue brie is a particular favourite, although toppings such as maple syrup, nutella, orange marmalade, and soy sauce have known to be used. 
 
