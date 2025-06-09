@@ -1,13 +1,14 @@
-# 🧑‍💻 User Manual: ChibiPanda
-*Version: Highly caffeinated | Updated: June 2025*
+# 👤 User Manual: ChibiPanda
+**Version:** Master Edition · *Highly Caffeinated*  
+**Last Updated:** June 2025  
 
 ---
 
 ## 📍 Core Operating Facts
 
-- **Working Hours:** Not a morning person. Functional after 1000; peak output in afternoon/evening.  
-- **Neurotype:** ADHD – may hyperfocus or mentally teleport mid-task.  
-- **Communication Style:** Direct, witty, and no-frills. Avoid excessive fluff or saccharine tones.
+- **Working Hours:** Not a morning person. Functional after 1000; peak performance in afternoon/night.  
+- **Neurotype:** ADHD – may hyperfocus or mentally teleport. Works best with autonomy and clear challenge.  
+- **Communication Style:** Direct, witty, no-nonsense. Dry humor appreciated; literal, please warn before usage of metaphors, analogies, euphemisms, sarcasm, irony, or anything requiring extra processing
 
 ---
 
@@ -15,90 +16,121 @@
 
 | Item                | Response                                                  |
 |---------------------|-----------------------------------------------------------|
-| **Coffee**          | ✅ Lactose-free milk, sugar substitute (not sucralose), often with protein or collagen powder.  
-| **Chocolate**       | ✅ Dark only. No "notes of leather" or smoky aftertastes.  
-| **Sweet Things**    | ❌ No frosting. No overly sweet items.  
-| **Dairy**           | ❌ Avoid unless explicitly lactose-free.  
-| **Oil**             | ❌ Disliked in both taste and mouthfeel.  
-| **Bread & Potatoes**| ❌ Not enjoyed. Don’t use as base foods.  
-| **Yogurt**          | ✅ Sugar-free drinkable yoghurt = perfect snack.  
-| **Cooking**         | ❌ Nope. Do not expect kitchen-based cooperation.  
+| **Coffee**          | ✅ Lactose-free milk, sugar substitute (not sucralose), with protein or collagen powder.  |
+| **Chocolate**       | ✅ Dark; avoid leathery/smoky notes.                      |
+| **Snacks**          | ✅ Sugar‑free drinkable yoghurt, wilted veggies, tofu.    |
+| **Vegetables**      | ✅ Must be wilted—nuked until soft.                      |
+| **Carrots**         | ✅ Loved—only when cooked to death.                       |
+| **Bread / Potatoes**| ❌ Disliked—avoid.                                        |
+| **Oily Food**       | ❌ No thank you.                                          |
+| **Cooking**         | ❌ Not happening. Microwave-only meals, please.           |
 
-### ✅ Safe Bribes / Snacks
+### ✅ Snackable “Bribes”
 
-- Dark chocolate (clean profile — no leather notes)  
-- Sugar-free drinkable yoghurt  
-- Protein-forward snacks (not sweet)  
-- Fancy coffee gear or cold brew  
-- Properly wilted veggies or tofu  
-
----
-
-## 🥦 Vegetable & Protein Preferences
-
-- **Vegetables:** Must be wilted. Buys them crunchy but nukes them soft.  
-- **Carrots:** Beloved — but only if cooked into submission.  
-- **Tofu:** Yes. All forms welcome.
+- Fancy dark chocolate (clean profile)  
+- Cold sugar‑free yogurt drinks  
+- Protein-based treats (low sweetness)  
+- Coffee gear or cold brew  
+- Wilted vegetables or tofu delicacies  
 
 ---
 
 ## ⚠️ Allergy & Avoidance Zones
 
-- ❌ **Lactose** – Hard stop unless labeled lactose-free  
+- ❌ **Lactose** – Avoid unless labeled lactose-free  
 - ❌ **Alcohol** – Zero tolerance  
-- ❌ **Pollen** – Allergic; avoid flowers, open windows, or outdoor fields  
-- ❌ **Insects** – Psychosomatic reaction risk. No jokes.  
-- ❌ **Heat** – Unbearable. Cold is preferred in all cases.  
-- ❌ **Rural environments** – Urbanite mode only  
-- ❌ **Silence / Darkness** – Creepy. Ambient light and sound preferred  
+- ❌ **Pollen / Dust** – Allergic; avoid open windows, flowers  
+- ❌ **Insects** – Psychosomatic distress; no jokes  
+- ❌ **Heat** – Intolerable; prefers cold  
+- ❌ **Rural Settings** – Strong urban preference  
+- ❌ **Silence / Darkness** – Creepy/distressing; prefers ambient light & sound  
 
 ---
 
 ## 🧠 Mental OS Settings
 
-- **Focus:** ADHD. Hyperfocus unlocked by novelty, logic, or caffeine  
-- **Learning Style:** Visual, logical, challenge-driven  
-- **Resting Mode:**  
-  - Sleeps face-down under a weighted blanket  
-  - BedJet always set to cooling mode  
-  - Overheated rooms will result in full shutdown  
+- **Focus:** ADHD. Best with structure and novelty.  
+- **Learning Style:** Visual, logical, challenge-obsessed.  
+- **Feedback Style:** Clear, literal, constructive—no vague euphemisms.  
+- **Dislike:** ‘Like’, ‘um’, internet slang, shorthand; prefers precise language.
 
 ---
 
-## 🚗 Transportation Profile
+## 🚗 Transportation & Motion
 
-| Situation            | Response                     |
-|----------------------|------------------------------|
-| Normal-speed driving | 😬 Anxious                    |
-| High-speed driving   | 😌 Smooth, calm, hyper-aware  |
-| Boats / buses        | 🤢 Motion sickness warning    |
+| Condition              | Reaction                        |
+|------------------------|---------------------------------|
+| Normal-speed driving   | 😬 Anxious / unsettled         |
+| High-speed driving     | 😌 Calm, focused               |
+| Boats / Public transit | 🤢 Prompts motion sickness     |
 
----
-
-## 🏙️ Environmental Preferences
-
-- ❄️ Cold > Hot (always)  
-- 🏙️ Urban or nothing – Needs Wi-Fi, espresso, infrastructure  
-- 🏡 Ideal home: *Batman’s lake house* from *Justice League*  
+- **Bike:** Recently learned, proud.
+- **Car preference:** Compact, sporty; dislikes SUVs; aims for mid- or rear-engine coupe.
 
 ---
 
-## 🤝 How to Work With Me
+## 🛌 Rest & Sensory Setup
 
-### ✅ DO:
-- Offer coffee, logic puzzles, or a complex question  
-- Keep meetings efficient and well-paced  
-- Provide clear expectations and timelines  
-- Respect sensory boundaries (noise, light, heat, fabric)  
-- Ask about science, language learning, or existential curiosities  
-
-### ❌ DON’T:
-- Push dairy, oily food, frosted cakes, or bug jokes  
-- Expect alertness in the morning  
-- Plan outdoor events during pollen season  
-- Suggest “a little countryside getaway”  
-- Assume cooking is on the table
+- Sleeps **face-down** under a **weighted blanket**  
+- **BedJet** set to **cooling mode**  
+- Avoid overheated spaces—leads to shutdown  
+- Finds **silence** creepy; **darkness** scary  
+- **Ambient noise/light** = essential comfort
 
 ---
 
-> 🧊 *Powered by caffeine, cooled air, and curiosity. Handle gently. Feed wisely. Respect the tags (or lack thereof).*
+## 🏙️ Environmental & Fashion Tastes
+
+- ❄️ Cold preferred over hot  
+- 🏙️ Lifelong urbanite; needs Wi‑Fi, espresso, cityscape  
+- 🏡 Dream home: *Glass cube lake house à la Batman's Justice League*  
+- **Clothing:**  
+  - Prefers silk/cotton—no wool, cashmere, or itchy fabrics  
+  - Labels removed (itchy)  
+  - Clothes hung with front facing left  
+  - Basis in plain and timeless  
+
+---
+
+## 🧼 Hygiene & Workspace Norms
+
+- **Daily:** Night showers; hair shampoo + conditioner; brush, liquid soap, hypoallergenic lotion  
+- **Oral care:** Floss → sonic brush → mouthwash. Uses water‑pik if rushed  
+- **Grooming:** Air-dry hair; minimal makeup; clips/pins to manage bangs  
+- **Cleanliness:**  
+  - Short nails (except pinky) for cleaning blackheads  
+  - Clean face, underarms; tidy ears  
+  - Desk/room: light clutter accepted, but no food mess or mold  
+  - Dislikes fingerprints on screens; prefers matte  
+
+---
+
+## 🌀 Peculiar Hello & Warning Traits
+
+- **Numbers:** Loves 3; dislikes 4  
+- **Colors:** Prefers red & green; purple = meh  
+- **Cereal:** Prefers soggy—crunch hurts  
+- **Noise:** High-pitched or sudden sounds can startle  
+- **Trigger:** Headache and hunger = shorter fuse  
+
+---
+
+## 🤝 How to Work & Live With Me
+
+### ✅ Do:
+- Bring coffee, logic puzzles, or interesting problems  
+- Communicate clearly and concisely  
+- Opt for ambient background sounds/lights  
+- Respect sensory preferences and quirks  
+- Discuss science, language, or existential topics  
+
+### ❌ Don’t:
+- Offer dairy, alcohol, frosted cakes, oily foods  
+- Expect early-morning cheer  
+- Joke about bugs or invite to rural fields  
+- Expose to silence, darkness, or heat  
+- Use slang/filler in conversation  
+
+---
+
+> *“Power sequence: caffeine > cool environment > logic challenge. Activate by respecting the quirks. Bribe accordingly.”* ☕❄️🧠
