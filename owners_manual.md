@@ -22,6 +22,7 @@
 | **Vegetables**      | ✅ Must be wilted—nuked until soft.                      |
 | **Carrots**         | ✅ Loved—only when cooked to death.                       |
 | **Bread / Potatoes**| ❌ Disliked—avoid.                                        |
+| **Banananana**| ❌ NO. NO!                                        |
 | **Oily Food**       | ❌ No thank you.                                          |
 | **Cooking**         | ❌ Not happening. Microwave-only meals, please.           |
 
@@ -98,7 +99,7 @@
 - **Oral care:** Floss → sonic brush → mouthwash. Uses water‑pik if rushed  
 - **Grooming:** Air-dry hair; minimal makeup; clips/pins to manage bangs  
 - **Cleanliness:**  
-  - Short nails (except pinky) for cleaning blackheads  
+  - Short nails (except pinky) for picking nose
   - Clean face, underarms; tidy ears  
   - Desk/room: light clutter accepted, but no food mess or mold  
   - Dislikes fingerprints on screens; prefers matte  
@@ -108,7 +109,7 @@
 ## 🌀 Peculiar Hello & Warning Traits
 
 - **Numbers:** Loves 3; dislikes 4  
-- **Colors:** Prefers red & green; purple = meh  
+- **Colors:** Prefers pink; purple = meh; red for cars
 - **Cereal:** Prefers soggy—crunch hurts  
 - **Noise:** High-pitched or sudden sounds can startle  
 - **Trigger:** Headache and hunger = shorter fuse  
@@ -118,7 +119,7 @@
 ## 🤝 How to Work & Live With Me
 
 ### ✅ Do:
-- Bring coffee, logic puzzles, or interesting problems  
+- Bring coffee, logic puzzles, or interesting problem
 - Communicate clearly and concisely  
 - Opt for ambient background sounds/lights  
 - Respect sensory preferences and quirks  
@@ -126,7 +127,8 @@
 
 ### ❌ Don’t:
 - Offer dairy, alcohol, frosted cakes, oily foods  
-- Expect early-morning cheer  
+- Expect early-morning cheer
+- Send flower for well-wishing. they are declaration of dislike
 - Joke about bugs or invite to rural fields  
 - Expose to silence, darkness, or heat  
 - Use slang/filler in conversation  
