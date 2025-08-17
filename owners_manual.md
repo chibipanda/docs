@@ -140,7 +140,9 @@
 
 In case of death, please donate all usable organs. Turn the rest of the carcass into a diamond, hopefully pink tinted, at least 2 carat, and set it into a pendant for my youngest sister to wear. Hopefully, it will bring her good karma due to the post-humous organ donations.
 
-Please, no funeral. Just don't tell anyone that I am dead.
+Please, no funeral. Just don't tell everyone aside fron need-to-know-people that I am dead.
+
+SOP page will be distributed separately to people who would need to know (in progress)
 
 ---
 
