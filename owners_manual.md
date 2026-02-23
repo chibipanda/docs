@@ -110,7 +110,7 @@
 ## 🌀 Peculiar Hello & Warning Traits
 
 - **Numbers:** Loves 3;   
-- **Colors:** Prefers pink; purple = meh; red for cars
+- **Colors:** Prefers black; red for cars
 - **Cereal:** Prefers soggy—crunch hurts  
 - **Noise:** High-pitched or sudden sounds can startle  
 - **Trigger:** Headache and hunger = shorter fuse  
