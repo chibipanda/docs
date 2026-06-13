@@ -1,6 +1,5 @@
-# 👤 User Manual: ChibiPanda
-
-**Version:** Master Edition · *Highly Caffeinated*  
+# 🧑‍💻 Human Interface Guidelines: ChibiPanda
+ 
 **Last Updated:** June 2026
 
 ---
@@ -59,6 +58,8 @@
 | **Oily Food**        | ❌ No thank you.                                                                         |
 | **Cooking**          | ❌ Not happening. Microwave-only meals, please.                                          |
 
+> *Exhibit A, on why cooking is banned:* I once introduced a frozen cheese bread to an 1800W microwave for 60 seconds and produced enough smoke to summon the Fairfax County Fire Department — who were knocking the front door down on the assumption we'd all succumbed to smoke inhalation. That was false-alarm strike 2 of 3. The microwave is a hostile environment; one credit remains, and it will not be spent on snacks.
+
 **Snackable "bribes":**
 
 - Dark chocolate — 70%+ through 100% (Ecuadorean 100% is genuinely excellent), no leather notes in the bouquet
@@ -71,7 +72,7 @@
 
 ## ⚠️ Avoidance Zones
 
-- ❌ **Lactose** — Avoid. Even if I'm willing to suffer the consequences, I'm not, so: no. Warn me if lactose is involved so I can pre-load lactase pills.
+- ❌ **Lactose** — Avoid. Even if other people are willing to suffer the consequences, I'm not, so: no. Warn me if lactose is involved so I can pre-load lactase pills.
 - ❌ **Alcohol** — Zero tolerance
 - ❌ **Pollen / Dust** — Allergic; avoid open windows, flowers
 - ❌ **Insects** — Psychosomatic distress; no jokes
@@ -144,7 +145,7 @@
 - Communicate clearly and concisely; written is easier
 - Use ambient background sound/light
 - Treat my sensory preferences as needs, not negotiations
-- Talk science, language, or existential topics
+- Talk about science, languages, or existential topics
 - Use slang freely — just expect the occasional "what does that mean?"
 
 **❌ Don't:**
